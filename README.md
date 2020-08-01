@@ -12,7 +12,7 @@
 
 
 ## Demo
-Link: [https://flight-price-predictor-latest.herokuapp.com/](https://flight-price-predictor-latest.herokuapp.com/)
+Link: [https://phani-flight-price-prediction.herokuapp.com/](https://phani-flight-price-prediction.herokuapp.com/)
 
 [![](https://imgur.com/V5cXgQm.png)](https://flight-price-predictor-latest.herokuapp.com/)
 
